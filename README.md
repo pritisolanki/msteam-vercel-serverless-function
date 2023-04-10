@@ -1,4 +1,4 @@
-## Kontent.ai + Microsoft team Integration
+## Kontent.ai + Microsoft team  Serverless Integration
 Vercel serverless function to set-up for the purpose of showcasing integration of Kontent.ai webhook to microsoft team for pushing notification in microsoft team using adaptive cards.
 
 ## Install
