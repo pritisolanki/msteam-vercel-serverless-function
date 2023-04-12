@@ -5,10 +5,10 @@
     "dotenv": "^16.0.3",
     "express": "^4.18.2"
   },
-  "type": "module",
-  "name": "ms-card-kontent",
+  "name": "ms-integration",
   "version": "1.0.0",
   "main": "app.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
